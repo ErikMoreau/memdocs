@@ -89,6 +89,6 @@ With the pause Config Refresh action, IT admins can suspend policy refresh for a
 <!--Other links-->
 
 [CSP-1]: /windows/client-management/mdm/dmclient-csp#deviceproviderprovideridconfigrefresh
-[LEARN-1]: /windows/security/book/operating-system-security-system-security#-config-refresh
+[LEARN-1]: /windows/security/book/operating-system-device-management#config-refresh
 
 
